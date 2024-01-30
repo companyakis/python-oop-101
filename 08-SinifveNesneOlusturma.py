@@ -15,7 +15,7 @@ class ArabaTuru:
 bilgenin_arabasi = ArabaTuru()
 bilgenin_arabasi.araba_markasi = "Toyota"
 bilgenin_arabasi.araba_renk = "Ak"
-bilgenin_arabasi.araba_yil = 2022
+bilgenin_arabasi.araba_yil = "2022"
 
 # Bu bilgileri ekranda bastıralım
 
